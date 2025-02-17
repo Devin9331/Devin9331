@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 - I am currently looking for a career in information technology.
-- 🔭 I’m currently working on an associates degree in engineering, CompTIA A+ Core 1 certification. I've acquired the Network+ certification in January of 2024.
+- 🔭 I’m currently working on an associates degree in engineering, CompTIA A+ certification. I've acquired the Network+ certification in January of 2024.
 - 🌱 I’m currently learning ...
 
 <!--
